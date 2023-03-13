@@ -1,14 +1,14 @@
-import os
+from pathlib import Path
 
 import streamlit as st
 from PIL import Image
 
 # --- PATH SETTINGS ---
 
-current_dir = os.getcwd()
-css_file = os.path.join(current_dir,"Styles\main.css")
-resume_file = os.path.join(current_dir,"Assets\CV.pdf")
-profile_pic = os.path.join(current_dir,"Assets\profile-pic.jfif")
+current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
+css_file = str(current_dir / "Styles" / "main.css")
+resume_file = str(current_dir / "Assets" / "CV.pdf")
+profile_pic = str(current_dir / "Assets" / "profile-pic.jfif")
 
 
 # --------- GENERAL SETTINGS -----------
