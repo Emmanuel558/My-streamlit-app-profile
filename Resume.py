@@ -39,6 +39,7 @@ PROJECTS = {
 CERTIFICATIONS = {
     "Alteryx Core certified":"https://www.credly.com/badges/57cd79a4-4bf3-47b5-b29a-3c79c0eaf672/linked_in_profile",
     "Alteryx Advanced certified":"https://www.credly.com/badges/b62a27c6-6528-4409-aa43-8657bbce5c98?source=linked_in_profile",
+    "Microsoft Power-BI Data Analyst Associate:"https://drive.google.com/file/d/1GY4gAXhogbhPHWKNdx3SYwAFnqZXN9sC/view?usp=drive_link",
     "Data Wrangling and Prep on Trifacta Cloud Platform":"https://www.credly.com/badges/ad913d78-8ac5-4276-bb7a-cdacf6bb4d5c?source=linked_in_profile",
     "Dataiku core certified":"https://verify.skilljar.com/c/fepmkaorxhyj",
     "Dataiku Advanced certified":"https://verify.skilljar.com/c/7qvocvv32jvg",
